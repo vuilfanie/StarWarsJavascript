@@ -2,6 +2,10 @@
 
 This website allows you to quickly generate a random Star Wars character with some of their stats. The data is pulled from the Star Wars API (SWAPI) and is generated using JavaScript.
 
+#Live URL
+
+Visit the following URL to see the website in action: https://vuilfanie.github.io/StarWarsJavascript/
+
 ## Features
 
 - Generate a random Star Wars character
