@@ -16,11 +16,6 @@ BtnCharacter.addEventListener("click", (e) => {
 
     const randomNumber = Math.ceil(Math.random() *83)
     fetch(`https://akabab.github.io/starwars-api/api/id/${randomNumber}.json`, {
-        method: 'Get',
-        headers: {
-            'Accept': 'application/json',
-            'Content-Type': 'application/json'
-          },
         })
         .then(response => response.json())
         .then(data => {
