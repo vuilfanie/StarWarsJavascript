@@ -4,7 +4,7 @@ This website allows you to quickly generate a random Star Wars character with so
 
 #Live URL
 
-Visit the following URL to see the website in action: https://vuilfanie.github.io/StarWarsJavascript/
+Visit the following URL to see the website in action: https://starlit-blini-be9ca6.netlify.app/
 
 ## Features
 
